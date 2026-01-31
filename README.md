@@ -8,11 +8,11 @@
 
 ### 🌟 Featured Projects
 
-- **[kiss-cam](https://github.com/tony830802/kiss-cam)**: 一款為婚禮設計的互動式拉霸遊戲。主介面由 Canva AI 生成，結合 TypeScript 開發，讓賓客透過互動增添婚禮趣味。
-- **[mahjong-match](https://github.com/tony830802/mahjong-match)**: 專為長輩設計的高對比度麻將對對碰遊戲。具備大字體、語音提示，優化銀髮族的操作體驗。
-- **[im-king](https://github.com/tony830802/im-king)**: 將大學時期的益智問答 App 以 Next.js 重製。具備 8 個難度級別、積分升級系統與充滿回憶的歷史題庫。
-- **[remote-wake](https://github.com/tony830802/remote-wake)**: 使用 Next.js 與 Firebase 開發的安全遠端喚醒 (Wake-on-WAN) 管理系統。支援多國語系，並建議透過 Cloudflare Tunnel 部署。
-- **[interactive-blackboard](https://github.com/tony830802/interactive-blackboard)**: 復刻 2015 年彰師大畢業典禮的現場祝福牆。利用 Firebase 的 `onSnapshot` 功能，實現零延遲的便利貼互動效果。
+- **[kiss-cam](https://github.com/tony8382/kiss-cam)**: 一款為婚禮設計的互動式拉霸遊戲。主介面由 Canva AI 生成，結合 TypeScript 開發，讓賓客透過互動增添婚禮趣味。
+- **[mahjong-match](https://github.com/tony8382/mahjong-match)**: 專為長輩設計的高對比度麻將對對碰遊戲。具備大字體、語音提示，優化銀髮族的操作體驗。
+- **[im-king](https://github.com/tony8382/im-king)**: 將大學時期的益智問答 App 以 Next.js 重製。具備 8 個難度級別、積分升級系統與充滿回憶的歷史題庫。
+- **[remote-wake](https://github.com/tony8382/remote-wake)**: 使用 Next.js 與 Firebase 開發的安全遠端喚醒 (Wake-on-WAN) 管理系統。支援多國語系，並建議透過 Cloudflare Tunnel 部署。
+- **[interactive-blackboard](https://github.com/tony8382/interactive-blackboard)**: 復刻 2015 年彰師大畢業典禮的現場祝福牆。利用 Firebase 的 `onSnapshot` 功能，實現零延遲的便利貼互動效果。
 
 ---
 
