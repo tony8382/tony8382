@@ -4,8 +4,6 @@
 
 我是一位熱衷於打造高效能、可擴展系統的軟體工程師。擁有豐富的半導體研發系統數位轉型經驗，擅長整合現代化架構與自動化工具，並對開發提升生活品質的個人專案充滿熱情。
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tony8382&label=Profile views&color=0e75b6&style=flat" alt="tony8382" /> </p>
-
 ---
 
 ### 🌟 Featured Projects
